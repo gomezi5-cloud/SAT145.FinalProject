@@ -1,0 +1,120 @@
+unique,album,characters,seconds,month,day,year_released,artist_name,writers,producer,listens,chart_peak,chart_duration,remixed,grammy,featured,explicit ,awards,music_video,live_performance,hip_pop,country,rap,r&b,rock,latin,metal,jazz
+S001,Ordinary,8,186,2,7,2025,Alex Warren,4,"Adam Yaron, Randy Merrill, Alex Ghenea","1,167,556,304",1,24,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+S002,KPop Demon Hunters,6,194,6,20,2025,HUNTR/X,8,"IDO, 24, Teddy, Ian Eisendrath
+","500,000,000",2,6,1,0,1,0,2,0,1,1,0,0,0,0,0,0,0
+S003,I'm The Problem ,9,184,5,16,2025,Morgan Wallen,9,"Joey Moi, Charlie Handsome
+","75,000,000",1,0,1,0,1,0,1,1,1,0,1,0,0,0,0,0,0
+S004,SWAG,7,176,7,11,2025,Justin Bieber,8,"Carter Lang, Dijon, Mk.gee, Eddie Benjamin, Dylan Wiggins, Daniel Chetrit","363,650,582",2,0,1,0,0,0,2,1,1,1,0,0,0,0,0,0,0
+S005,I'm The Problem ,10,166,5,16,2025,Morgan Wallen,8,"IDO, 24, Teddy, Ian Eisendrath
+","238,899,986",2,8,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+S006,Bird's Eye,9,213,8,9,2024,Ravyn Lenae,3,"Craig Balmoris, Dahi, Ritz Reynolds","619,119,454",6,19,1,0,0,0,1,1,1,0,0,0,1,0,0,0,0
+S007,I've Trieed Everything But Therapy,9,210,9,15,2023,Teddy Swims,5,"Julian Bunett, Ammo
+","2,100,000,000",1,31,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+S008,"Where I've Been, Isn't Where I'm Going
+",13,171,5,31,2024,Shaboozey,6,"Sean Cook, Nevin Sastry
+","1,400,000,000",1,11,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0
+S009,KPop Demon Hunters,8,191,6,20,2025,Saja Boys,8,"IDO, 24, Teddy, Ian Eisendrath
+","460,000,000",9,7,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0
+S010,Die With A Smile,13,151,8,16,2024,Lady Gaga & Bruno Mars,5,"Lady Gaga, Bruno Mars, Dernst ""D'Mile"" Emile II, Andrew Watt","3,005,000,000",1,19,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0
+S011,I'm The Problem,12,177,1,31,2025,Morgan Wallen,5,"Joey Moi, Charlie Handsome
+","277,695,752",2,0,1,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+S012,GNX,6,177,11,22,2024,Kendrick Lamar & SZA,1,"Sounwave, Jack Antonoff, Roselilah, M-Tech, Scott Bridgeway, Kamasi Washington, ","1,000,000,000",1,12,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0
+S013,"Manchild
+",8,213,6,5,2025,Sabrina Carpenter ,3,"Sabrina Carpenter, Jack Antonoff
+","468,311,377",1,0,1,0,0,1,0,1,1,1,0,0,0,0,0,0,0
+S014,Pink Pony Club,12,258,4,23,2022,Chappell Roan,2,Daniel Nigro,"936,000,000",4,43,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+S015,Beautiful Things,15,180,1,18,2024,Benson Boone,3,Evan Blair,"2,500,000,000",2,8,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+S016,KPop Demon Hunters,7,210,6,20,2025,Saja Boys,8,"IDO, 24, Teddy, Ian Eisendrath
+","447,000,000",16,12,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0
+S017,Good News,8,199,11,15,2024,Shaboozey,6,"Sean Cook, Nevin Sastry
+","175,000,000",17,39,1,0,0,0,1,1,1,0,0,0,1,0,0,0,0
+S018,Mutt,4,193,8,8,2024,Leon Thomas,4,"D Phelp, Freaky Rob
+","298,000,000",12,35,1,0,0,1,1,1,1,0,0,0,1,0,0,0,0
+S019,KPop Demon Hunters,10,176,6,20,2025,HUNTR/X,8,"IDO, 24, Teddy, Ian Eisendrath
+","388,000,000",19,10,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0
+S020,I Had Some Help,12,178,5,10,2024,Post Malone,1,"Louis Bell, Charlie Handsome, 
+","1,288,000,000",1,0,1,0,1,1,0,1,1,1,0,0,0,0,0,0,0
+S021,I'm The Problem,5,205,5,16,2025,Morgan Wallen,9,"Joey Moi, Charlie Handsome
+","36,356,770",21,10,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0
+S022,HIT ME HARD AND SOFT,15,210,5,17,2024,Billie Eillish ,2,"FINNEAS
+","3,000,000,000",2,19,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0
+S023,Which One,8,169,7,25,2025,Drake & Central Cee,2,"O Lil Angel, B4U, OZ
+","117,793,048",23,0,1,0,0,1,2,1,1,1,0,0,0,0,0,0,0
+S024,I'm The Problem,10,204,5,16,2025,Morgan Wallen,9,"Joey Moi, Charlie Handsome
+","150,000,000",7,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+S025,American Heart,15,165,6,,2025,Benson Boone,5,Evan Blair,"304,000,000",17,9,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0
+S026,Apologies,23,188,5,3,2023,Benson Boone,3,Jason Evigan,"125,000,000",20,6,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+S027,Skyline,9,204,6,14,2023,Levon Thomas,5,Charley Cooks,"81,000,000",15,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+S028,Open Field,4,221,7,22,2024,Saja Boys,4,Jenna Andrews,"67,000,000",18,6,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+S029,Echoes,16,199,8,7,2024,Ravyn Lenae,4,Stephen Kirk ,"42,000,000",4,5,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0
+S030,Midnight City,9,176,4,18,2024,Shaboozey,2,Tony Berg,"98,000,000",17,4,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+S031,Red Lights,12,208,8,2,2025,HUNTRX,1,London Cyr,"146,000,000",24,3,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+S032,Homecoming,13,215,3,25,2023,Morgan Wallen,6,Gregg White,"112,000,000",3,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+S033,Prototype,8,231,8,6,2025,Post Malone,9,Ian Eisendrath,"75,000,000",7,7,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0
+S034,Paper Trail,10,182,2,12,2024,Drake & Central Cee,4,Tyler Reese,"130,000,000",17,9,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0
+S035,Contingency,10,206,1,28,2025,Billie Eillish ,2,Shawn Austin ,"101,000,000",31,12,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+S036,Highlights,3,197,9,9,2023,Alex Warren,6,Solana Rowe,"54,000,000",18,8,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+S037,Retrograde,5,200,12,5,2024,Lady Gaga & Bruno Mars,6,Elkan Agyei ,"62,000,000",25,11,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+S038,Steel Horses,15,243,6,1,2023,Saja Boys,3,Chip Matthews ,"49,000,000",19,10,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+S039,Steel Horses,10,251,9,20,1991,Ozzy Osbourne,5,Max Norman,"878,658,501",6,3,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+S040,Northen Lights,5,188,8,8,2022,Post Malone,7,Daniel Chetrit,"555,100,000",13,2,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+S041,Jetstream,11,214,5,17,2024,Teddy Swims,8,Jetski Purp ,"214,000,000",24,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+S042,Last Call,24,235,2,26,2025,Morgan Wallen,8,Thomas Rett,"193,000,000",37,20,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+S043,Grey Area,9,201,6,5,2024,Benson Boone,6,Nico Baran,"167,000,000",15,9,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+S044,Static,9,178,1,4,2025,Billie Eillish ,4,Riley Green,"238,000,000",27,9,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0
+S045,City Block,3,165,10,13,2023,Rosala,4,Omer Fedi ,"312,000,000",1,11,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+S046,Neon Heart,12,209,4,29,2024,Sabrina Carpenter ,5,Ryan Tedder,"295,000,000",38,7,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+S047,Dial Tone,12,193,3,21,2024,Tyler,1,"Tyler, the Creator ","79,000,000",42,8,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+S048,No More Tears,16,258,11,30,1991,Ozzy Osbourne,7,Duane Baron ,"1,500,000,000",13,6,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+S049,Return,8,205,12,16,2023,Ravyn Lenae,2,Josh Kerr,"96,000,000",9,13,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+S050,"You'll Be Alright, Kid",8,205,7,18,2025,Alex Warren,4,Alex Warren,"18,009,917",16,12,1,0,0,0,0,1,1,1,0,0,0,1,0,0,0
+S051,Don't Tap The Glass,15,154,7,21,2025,"Tyler, The Creator",2,"Tyler, The Creator","183,586,600",41,12,1,0,0,1,0,1,1,0,0,1,1,0,0,0,0
+S052,I'm The Problem,12,160,10,20,2025,Morgan Wallen,5,Joey Moi,"100,241,229",20,21,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+S053,6 Months Later,12,183,6,20,2025,Megan Moroney,4,Kristian Bush,"47,134,996",30,16,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+S054,Folded,6,238,6,11,2025,Kehlani,7,Andre Harris,"164,052,300",2,17,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0
+S055,HIT ME HARD AND SOFT,10,261,2,28,2025,Billie Eilish,2,Finneas O'Connell,"1,587,750,493",17,69,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0
+S056,"""Shake It to the Max (Fly)""",10,127,12,3,2024,Moliy Ama Montgomery,3,"Disco Neil, Silent Addy","25,584,905",44,34,1,0,1,0,0,1,1,0,0,0,1,0,0,0,0
+S057,I Ain't Comin' Back,20,175,4,18,2025,Morgan Wallen,6,"Joey Moi, Charlie Handsome","129,466,793",8,22,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+S058,Just Keep Watching ,16,142,5,30,2025,Tate McRae,4,"Ryan Tedder, Tyler Spry","349,230,536",33,19,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+S059,Don't Tap The Glass,6,182,7,21,2025,"Tyler, The Creator",17,"Tyler, The Creator","52,260,008",33,2,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+S060,Outside,5,206,6,20,2025,Cardi B,9,"Charlie Heat, HeyMicki, DJ SwanQo","38,130,274",10,16,1,0,0,1,0,1,1,1,0,0,0,0,0,0,0
+S061,Jump,4,164,7,11,2025,Blackpink,3,"Diplo, 24, Boaz van de Beatz, Zecca, Ape Drums","335,796,956",28,10,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+S062,Night Driving,25,194,11,15,2025,Max McNown,4,Kenny,"126,345,830",50,17,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+S063,Bottle Rockets,13,235,5,15,2025,Scotty McCreery,1,Frank Rogers,"17,684,365",32,16,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+S064,Amen,4,197,10,15,2025,Shaboozy,1,Danny Majic,"63,791,251",56,22,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+S065,Fix What You Didn’t Break,21,201,10,28,2025,Nate Smith,1,Lindsay Rimes,"55,455,501",52,15,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+S066,Don't Tap The Glass,17,200,7,21,2025,"Tyler, The Creator",1,"Tyler, The Creator","58,288,709",55,2,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+S067,KPop Demon Hunters,8,182,6,20,2025,Twice,1,Lindgren,"305,490,224",21,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+S068,House Again,10,203,10,18,2024,Hudson Westbrook,1,Lukas Scott,"145,067,134",51,12,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+S069,Superman,8,188,5,9,2025,Morgan Wallen,1,Charlie Handsome,"82,017,675",8,17,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+S070,Eternal Sunshine Deluxe: Brighter Days Ahead,12,198,4,8,2025,Ariana Grande,1,Ariana Grande,"208,640,558",18,18,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+S071,how i'm feeling now,7,296,5,13,2025,Charli XCX,1,A. G. Cook,"360,620,278",55,21,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+S072,Child of God (Deluxe),15,198,10,25,2024,Forrest Frank,1,Frank,"101,569,694",61,7,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0
+S073,Don't Tap The Glass,9,161,7,21,2025,"Tyler, The Creator",2,"Tyler, The Creator","43,610,647",48,2,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0
+S074,Strategy,8,201,12,6,2024,Twice,1,Twice,"201,610,462",51,12,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0
+S075,No Broke Boys,11,163,8,16,2024,Tinashe,1,Ricky Reed,"276,146,294",39,13,1,0,0,0,1,1,1,0,0,0,1,0,0,0,0
+S076,"You'll Be Alright, Kid",9,303,5,22,2025,Alex Warren & Jelly Roll,5,Adam Yaron,"173,477,048",32,10,1,0,1,0,1,1,1,0,1,0,0,0,0,0,0
+S077,I'm The Problem,2,305,5,16,2025,Morgan Wallen,8,"Joey Moi, Jacob Durrett, and Charlie Handsome",71686977,31,11,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+S078,Hard Fought Hallenlujah (with Jelly Roll),21,516,2,7,2025,Brandon Lake & Jelly Roll,6,Micah Nichols,35415438,40,24,1,0,1,0,1,1,1,0,1,0,0,1,0,0,0
+S079,Parachutes,6,347,7,10,2000,Coldplay,4,"Coldplay, Chris Martin, Guy Berryman, ken Nelson & Paul Read","1,709,454,179",79,3,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+S080,Bar None,7,253,3,28,2025,Jordan Davis,3,Paul DiGiovanni,40687485,80,4,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+S081,Greatest Rapper Alive,9,220,4,9,2025,G Herbo,3,Smatt Sertified & Nicholas MBW White,31822839,81,4,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0
+S082,DON'T TAP THE GLASS,17,258,7,21,2025,"Tyler, The Creator & Madison McFerrin",4,Tyler The Creator,40239684,59,2,1,0,1,1,0,0,1,1,0,1,0,0,0,0,0
+S083,Redencion (Deluxe),9,310,6,5,2025,Dareyes de La Sierra,2,"Darey Castro, Pablo Molina and Ernesto Fernandez ",195608340,83,2,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+S084,Strong,4,244,4,12,2024,Tyler Hubbard,4,Tyler Hubbard & Jordan Schmidt ,"23,331,008",84,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+S085,MUSIC,9,329,3,14,2025,Playboi Carti & The Weeknd,2,Metro Boomin,216912534,4,20,0,0,1,1,0,1,1,1,0,1,1,0,0,0,0
+S086,A Minute...,13,256,11,8,2024,Myles Smith,4,Myles Smith,271385687,82,8,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0
+S087,Somewhere Over Laredo,19,346,5,23,2025,Lainey Wilson,4,Jay Joyce,"20,568,982",87,4,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0
+S088,DeBÍ TiRAR MáS FOToS,3,324,1,5,2025,Bad Bunny ,1,Tainy ,645521917,24,28,0,1,0,0,0,1,1,0,1,1,0,0,0,0,0
+S089,SWAG,6,314,7,11,2025,Justin Bieber ,6,Skrillex,84198830,18,18,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0
+S090,WHM WHAMMIE,11,221,2,3,2025,Pluto & YKNIECE,4,Internet Money,59801489,51,15,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0
+S091,111XPANTIA,12,304,5,2,2025,Fuerza Regida ,1,Jimmy Humilde,336968809,64,11,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0
+S092,So Close To What,13,300,2,21,2025,Tate McRae ,2,Grant Boutin and Ryan Tedder,347387913,22,16,0,1,0,1,1,1,1,0,0,0,1,0,1,0,0
+S093,Typa,4,204,6,2,2025,Glorilla,6,"Tommy Brown, COurtin Jabrae and Leather Jacket ","18,393,821",42,7,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0
+S094,DeBÍ TiRAR MáS FOToS,8,303,1,5,2025,Bad  Bunny,1,"MAG, La Paciencia and Justi Barreto",726847964,8,20,0,1,0,1,1,1,1,0,0,1,0,0,0,0,0
+S095,DON'T TAP THE GLASS,17,213,7,21,2025,Tyler the Creator,3,Tyler The Creator,32973680,51,2,0,0,0,1,0,1,1,1,0,1,0,0,1,0,0
+S096,Madeline (Ft Gabriella Rose),8,225,7,18,2025,Zach Bryan & Gabriella Rose,2,Zach Bryan,29903033,62,2,0,1,0,1,0,1,1,0,1,0,1,0,0,0,0
+S097,DON'T TAP THE GLASS,9,115,7,20,2025,Tyler the Creator,3,Tyler the Creator,34914916,54,2,0,0,1,0,0,1,1,1,0,1,0,1,0,0,0
+S098,Streets of London,15,421,7,2,2025,Zach Bryan ,1,Zach Bryan,31082631,53,4,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+S099,DON'T TAP THE GLASS,17,342,7,21,2025,Tyler the Creator,1,Tyler the Creator,30715902,56,2,0,1,0,1,1,1,1,1,0,1,0,1,0,0,0
+S100,111XPANTIA,8,257,5,2,2025,Fuerza Regida ,5,"Jesus Ortiz Paz, Jimmy Humilde, Moises Lopez and Menostyle","375,011,659",65,7,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0
